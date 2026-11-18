@@ -1,0 +1,49 @@
+# Company B: metal packaging, 8 ERPs (JDE + SAP), 25 currencies, reports in USD.
+company: B
+reporting_currency: USD
+taxonomy: {file: "{data_dir}/company_B/taxonomy_B.csv"}
+
+fx:
+  file: "{data_dir}/company_B/fx_rates_usd.csv"
+  currency_col: currency
+  month_col: month
+  rate_col: units_per_usd
+  quote: units_per_reporting             # units of the line currency per 1 USD
+  row_rate_quote: units_per_reporting    # currency_rate on the line uses the same quote
+  date_roles: [invoice, posting]         # invoice month first, posting month when the invoice date is broken
+  row_rate_tolerance: 1.25               # a line rate outside the table's band (x/÷1.25) is replaced
+
+sources:
+  B:
+    file: "{data_dir}/company_B/invoice_lines.csv"
+    id_col: line_id
+    amount: {col: line_amount, basis: net}
+    currency: {col: currency, rate_col: currency_rate}
+    dates: {invoice: invoice_date, posting: posting_date, due: due_date, paid: paid_date}
+    date_formats: ["%Y-%m-%d", "%d/%m/%Y", "%m/%d/%Y", "%d.%m.%Y", "%Y%m%d"]
+    date_window: ["2023-01-01", "2025-12-31"]
+    supplier: {id: vendor_id}
+    item: {code: material_number}
+    description: [line_description]
+    quantity: quantity
+    po: {col: po_number}
+    invoice_number: {col: invoice_number}
+    invoice_line: invoice_line
+    features: [gl_account_description, gl_account, document_type, po_type, supplier_type, cost_centre, plant,
+               company_code, source_system, region, transport_flag, payment_terms]
+    reversals: cancel
+    dedup:
+      exact: true
+      key_cols: [source_system, invoice_number, invoice_line, vendor_id, line_amount, currency, line_description,
+                 material_number, quantity, po_number, po_line]
+
+labels:
+  file: "{data_dir}/company_B/seed_labels.csv"
+  id_col: line_id
+  category_cols: [category_l1, category_l2, category_l3]
+  include_col: include
+  use_as_truth: true
+
+classification:
+  meta_features: [gl_account_description, gl_account, po_type, supplier_type, cost_centre, plant, source_system, transport_flag, document_type]
+  zero_shot_extra_text: []

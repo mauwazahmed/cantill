@@ -1,0 +1,53 @@
+# Company A: mining operations, two systems (SAP goods receipts + AP invoice tool), reports in ZAR.
+company: A
+reporting_currency: ZAR
+taxonomy: {file: "{data_dir}/company_A/taxonomy_A.csv"}
+
+sources:
+  ERP:                                   # primary system: counted when a purchase is in both
+    file: "{data_dir}/company_A/erp_goods_receipts.csv"
+    id_col: line_id
+    id_prefix: "ERP:"
+    priority: 1
+    amount: {col: value_zar, basis: net}
+    currency: {fixed: ZAR}               # value_zar is already ZAR whatever document_currency says
+    dates: {posting: posting_date}
+    date_formats: ["%Y-%m-%d", "%d/%m/%Y", "%d-%b-%y"]
+    date_window: ["2015-01-01", "2027-12-31"]
+    supplier: {name: supplier_name, id: vendor_id}
+    item: {code: material_number}
+    description: [material_short_text, service_short_text]
+    quantity: quantity
+    po: {col: po_number, item_col: po_item}
+    features: [spend_type, material_type, opex_capex, contract_status, site_name, cost_centre, uom]
+
+  TOOL:                                  # AP invoice tool: gross amounts, OCR text, PO refs in many formats
+    file: "{data_dir}/company_A/invoice_tool_export.csv"
+    id_col: tool_record_id
+    id_prefix: "TOOL:"
+    priority: 2
+    amount: {col: gross_amount, basis: gross, tax_rate_col: vat_rate, default_tax_rate: 0.15}
+    currency: {col: currency, default: ZAR}
+    dates: {invoice: invoice_date}
+    date_formats: ["%Y-%m-%d", "%d-%b-%y", "%d/%m/%Y", "%d-%b-%Y", "%d.%m.%Y"]
+    date_window: ["2015-01-01", "2027-12-31"]
+    supplier: {name: supplier_name_as_captured}
+    description: [line_text]
+    quantity: quantity
+    po: {col: po_reference, regex: '(4\d{9})', item_regex: '/\s*(\d+)'}
+    invoice_number: {col: invoice_number, core_regex: '(\d+)\D*$'}
+    status: {col: status}
+    dedup: {fuzzy_invoice: true, text_threshold: 85}
+
+cross_source_match: {primary: ERP, secondary: TOOL}
+
+labels:
+  file: "{data_dir}/company_A/labels_A.csv"
+  id_col: record_id                      # already prefixed with ERP:
+  category_cols: [category_l1, category_l2, category_l3]
+  supplier_key_col: supplier_key
+  item_key_col: item_key
+  use_as_truth: true
+
+classification:
+  meta_features: [spend_type, material_type, opex_capex, site_name]

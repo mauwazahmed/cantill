@@ -1,0 +1,49 @@
+# Generic rules applied to every company (a company config can add its own and/or switch these off with
+# disable_default_rules: true). Patterns are case-insensitive Python regexes.
+#
+# Field groups:  desc = line description, supplier_name, @account = feature columns that look like
+# GL / account / ledger / cost-element fields, @all = desc + supplier + every feature column.
+
+# Status: first matching rule wins. code: null means "counts as spend".
+status:
+  - {pattern: 'cancel|void|revers|withdrawn|deleted|annul', code: CANCELLED}
+  - {pattern: 'not[\s_-]*approved|unapproved|disapproved|reject|declin|hold|submit|disput|pending|draft|park|block|query|queried|review|await|in[\s_-]*progress|open|new|fail|incomplete|exception|unpaid', code: NOT_APPROVED}
+  - {pattern: 'paid|approved|posted|cleared|complete|closed|released|authori[sz]ed|accepted|settled|processed|invoiced|booked|matched|verified|final', code: null}
+  - {pattern: '.', code: NOT_APPROVED}
+
+non_procurement:
+  - name: tax line (the description is only a tax label)
+    fields: [desc]
+    pattern: '^\W*(?:accrued\W*)?(?:(?:sales|use|state|local|input|output|withholding|w/?h|gst|hst|pst|qst|vat|iva|igv|tva|mwst|ust|btw|icms|ipi|pis|cofins|iss|excise|stamp|property|municipal|federal|provincial|county|city|rtd)\W*)+tax(?:es)?(?:\W+(?:expense|payable|accrual|accrued|input|output|credit|amount|charge|\d+(?:[.,]\d+)?\s*%))*\W*$'
+  - name: tax line (bare tax code)
+    fields: [desc]
+    pattern: '^\W*(?:vat|gst|hst|iva|igv|tva|mwst|ust|btw|tax|taxes|sales tax|withholding tax|wht)\W*(?:\d+(?:[.,]\d+)?\s*%)?\W*$'
+  - name: tax payment / refund
+    fields: [desc]
+    pattern: '\b(?:withholding tax|income tax|corporate tax|corporation tax|payroll tax|tax payment|tax refund|vat payment|vat refund|vat return|gst payment|tax penalt(?:y|ies)|tax assessment)\b'
+    unless: '\b(?:service|consult|advis|software|preparation|audit|support)'
+  - name: tax authority as supplier
+    fields: [supplier_name]
+    pattern: '\b(?:revenue services?|tax authority|tax office|internal revenue|hmrc|receita federal|hacienda|finanzamt|agenzia delle entrate|ministry of finance|tax administration)\b|^\W*(?:sars|irs|cra|ato|sat|afip|fbr)\W*$'
+  - name: intercompany
+    fields: [desc, supplier_name, '@account']
+    pattern: '\b(?:inter[\s-]?company|interco|intra[\s-]?group|inter[\s-]?group|i/c\b|related[\s-]party)'
+  - name: intercompany account code
+    fields: ['@account']
+    pattern: '^\s*ic\s*\d*\s*$|^\s*ic\s+payables?\b|^\s*ic[\s_-]'
+  - name: financing, interest, bank and FX items
+    fields: [desc, '@account']
+    pattern: '\b(?:interest (?:expense|charges?|paid|payable|on (?:loan|overdraft|late))|late payment interest|bank (?:charges?|fees?|commission)|finance charges?|loan (?:repayment|interest|principal)|dividends?|fx (?:loss|gain|revaluation)|exchange (?:rate )?(?:loss|gain|difference)|currency revaluation|hedg(?:e|ing) (?:settlement|cost))\b'
+  - name: royalties
+    fields: [desc, '@account']
+    pattern: '\broyalt(?:y|ies)\b'
+  - name: revenue, partner billings and customer refunds
+    fields: [desc, '@account']
+    pattern: '\b(?:revenue[\s-]share|revenue sharing|partner (?:billing|payout|settlement|share)|reseller payout|customer refund|refund to customer|sales rebate|customer rebate)\b'
+  - name: payroll and statutory deductions
+    fields: [desc, '@account']
+    pattern: '\b(?:salar(?:y|ies)|payroll|net pay|wages? payment|pension contribution|social security|provident fund|garnish(?:ment)?s?|paye|uif contribution)\b'
+    unless: '\b(?:software|system|services?|provider|outsourc|bureau|processing fee|consult)'
+  - name: donations, fines and penalties
+    fields: [desc]
+    pattern: '\b(?:donations?|charitable contribution|traffic fines?|parking fines?|penalty (?:fee|charge|payment))\b'
