@@ -1,0 +1,12 @@
+# Confidential task data: never commit
+data/
+*.zip
+blind/
+# record-level working files written next to outputs (contain client text)
+**/_work/
+# model weights are downloaded by scripts/download_model.py
+models/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
