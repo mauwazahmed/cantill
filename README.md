@@ -8,7 +8,7 @@ paid API and runs on CPU only.
 ## Setup
 
 ```bash
-python -m venv .venv && source .venv/bin/activate        # Python 3.10+
+python -m venv .venv && .venv\Scripts\activate        # Python 3.10+
 pip install -r requirements.txt
 python scripts/download_model.py                         # local sentence-embedding model (~90 MB, once)
 ```
