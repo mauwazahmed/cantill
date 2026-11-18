@@ -1,4 +1,4 @@
-# Spend cube builder — Cantill.ai Data & ML task
+# Spend cube builder - Cantill.ai Data & ML task
 
 Takes a company's raw purchase data and its category tree, combines and cleans the data, decides what counts as
 spend, de-duplicates suppliers and items, and classifies every included line into the tree with a confidence.
