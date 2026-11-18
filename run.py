@@ -17,7 +17,7 @@ def main(argv=None):
                     "--data-dir the history trains the classifier and golden keys and only --data-dir records are output")
     ap.add_argument("--file", action="append", default=[], metavar="CONFIG_PATH=ACTUAL_PATH",
                     help="override one configured file path without editing the config")
-    ap.add_argument("--out", default="outputs", help="output folder")
+    ap.add_argument("--out", default="output", help="output folder")
     ap.add_argument("--name", default="mauwaz_ahmed", help="prefix for output files: <name>__<suffix>.csv")
     ap.add_argument("--suffix", default=None, help="output suffix (default: company code in the config)")
     ap.add_argument("--hide-labels", action="store_true", help="ignore labels (zero-label test)")
