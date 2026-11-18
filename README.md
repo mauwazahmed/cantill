@@ -16,8 +16,8 @@ python scripts/download_model.py                         # local sentence-embedd
 Put the task data in `data/` (git-ignored, never committed):
 
 ```
-data/company_A/{erp_goods_receipts.csv, invoice_tool_export.csv, labels_A.csv, taxonomy_A.csv}
-data/company_B/{invoice_lines.csv, seed_labels.csv, taxonomy_B.csv, fx_rates_usd.csv}
+data/company_A/{files}
+data/company_B/{files}
 ```
 
 ## The one command
