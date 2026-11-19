@@ -1,0 +1,32 @@
+{
+  "company": "C",
+  "records": 25001,
+  "included": 22678,
+  "excluded_by_reason": {
+    "NON_PROCUREMENT": 2217,
+    "CANCELLED": 106
+  },
+  "total_spend": 14215261.89,
+  "reporting_currency": "USD",
+  "spend_by_source": {
+    "C": 14215261.89
+  },
+  "suppliers": 1051,
+  "items": 5846,
+  "classification_mode": "zero-shot",
+  "fx_flags": {},
+  "date_flags": {
+    "date_invoice_flag": {},
+    "date_status_flag": {}
+  },
+  "timings_s": {
+    "ingest": 0.3,
+    "amounts+fx": 0.0,
+    "status/rules/dedup": 3.4,
+    "cross-source match": 0.0,
+    "labels": 0.0,
+    "supplier/item keys": 3.6,
+    "classification": 99.4,
+    "total": 107.3
+  }
+}

@@ -1,0 +1,401 @@
+desc,supplier_cluster,path,lines,spend,confidence,risk
+BIT RCK;DIA:25MM,S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,12,3837527.06,0.6949461698532104,1170652.3279449488
+"MNTN,EQ;INTV,MNOR",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,2,6377188.0,0.91416335105896,547396.4475870132
+Drill&OperationAccs,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,4,4914984.36,0.893458902835846,523647.8262590575
+MCH 30MM SLEEVE,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,2,744285.0,0.520904004573822,356583.9629557729
+MOTOR;P/N:100121030;TYPE CUTTER,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,1179626.86,0.7072103023529053,345382.5916757918
+"BIT RCK;P/N:618949,TWO PRONG,DIA:25,6MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,937740.38,0.6837164163589478,296591.8879113221
+Drill&Operati0nAccs,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,3,2614639.96,0.8970519502957662,263866.13831676246
+GENERAL MECHANICAL,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,57,10465620.3,0.9754648208618164,256775.86885271073
+BIT RCK;DIA25MM,S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,474933.0,0.5566381216049194,210567.1869918108
+PIPING/PIPE FITTINGS,S:pelwick,Underground Services > Underground Explosive and Water Seals > Underground Explosive and Water Seals,3,370821.32,0.4583069384098053,200871.3361337173
+CYLDR ASSY ACTNG LINEAR;P/N:AJHF59153000,S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,342750.07,0.5194253921508789,164716.98048050882
+Mech (materials),S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,8,722731.0399999999,0.8162955641746521,132768.89795666694
+BIT RCK;DIA:25MM,S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,2,575640.72,0.7853137850761414,123582.12733284473
+DRILL&0PERATIONACCS,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,3,860451.78,0.893458902835846,91673.4766980493
+"HOUSING;P/N:J191-3101,CUTTERHEAD",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,1838527.5,0.9594128727912903,74620.54951921105
+"BIT RCK;P/N:6189499,TWO PRONG,DIA:25,6MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,11,6290441.04,0.9894164258783514,72693.1898815012
+"HOUSING;P/N:SA13122,PLANEARY",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,152980.98,0.5524188876152039,68471.39720211626
+250045852 drifter shank for f/drill,S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,3,126604.57,0.5074716806411743,62356.3360852468
+REPR;HUB;P/N:SDH001 OEM:BOREMILL ENGINEE,S:roswoodengineering,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,103095.0,0.397665798664093,62097.64448672533
+MCH30MM SLEEVE,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,252300.0,0.7720887660980225,57502.00431346893
+Mech (materials),S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,2,171771.2,0.6757741570472717,55692.66211500168
+"JOINT;P/N:0534402-0006,BEL,LG 290MM,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,731288.1,0.9238694310188293,55673.379142159225
+"SHAFT SHOULD;P/N:100173861,SPLIND,1330",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,134833.23,0.6005443334579468,53859.89776166797
+"SHAFT;P/N:100077860,SPLINED, SHORT",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,176943.6,0.7346261143684387,46956.21066963673
+"WINCH;BELT PULG,3.5TON,MNL OPERATED,13.6",S:kelwardmining,Underground Production Equipment > Continuous Miners > Continuous Miners,1,167475.0,0.7381283044815063,43856.962206959724
+"BIT RCK;DIA:25,6MM,THD",S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,4,731119.29,0.8299426734447479,40188.61299673855
+Construction machine,S:pelwick,Underground Services > Roof Support Services > Roof Support Services,6,185330.88,0.8035313487052917,36411.70803686142
+Plate,S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,99941.42,0.6496756076812744,35011.917228970524
+Limestone-Rock Dust,S:yarbury,Underground Services > Roof Support Services > Roof Support Services,3,1057988.34,0.9671164155006409,34790.4489777267
+"BIT RCK;STUMPNOSE,DIA:25,6MM,THD",S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,2,81237.12,0.6527890563011169,28206.417098579404
+DRILL&OPERATIONACCS,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,3,258952.19,0.893458902835846,27589.05043566048
+COUPLING;P/N:3-8526-WGC-COMP,S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,80544.6,0.6599079370498657,27392.57917349339
+DRILL&OPRATIONACCS,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,1,643927.9,0.95875084400177,26561.482398712636
+"JOINT;P/N:00534402-0006,BEL,LG 290MM,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,202626.66,0.8839494585990906,23514.933595257997
+"RODDRIL;P/N:226850,DIA 22 X LG 1800MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,93013.44,0.7484390139579773,23398.552681560515
+"CAP;P/N:SA10027,P/N:SA 10027,HUB,MS",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,67633.58,0.6686615347862244,22409.60659411311
+CARTRIDGE;INLET RELIEF,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,46044.159999999996,0.5066954493522644,21449.876012314555
+Threads,S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,145116.0,0.8558166027069092,20923.317881584167
+Mechanical seals,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,162505.12,0.8720815181732178,20787.408239479064
+"ROD DRIL;SIZE WD AF 22 MM; LN1500 MM,STL",S:dunax,Mining Operating Materials > Roof Support > Roof Support Accessories,7,42404.86,0.5317094922065735,20448.410776548386
+Drill&0perationAccs,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,1,176496.27,0.893458902835846,18804.10625118077
+CONTROLASSEMBLY;P/N:J37 3100,S:wextonengineering,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,125454.0,0.8552378416061401,18160.991819143295
+Drill&OperationAccs,S:blystonemining,Mining Operating Materials > Roof Bolts > Roof Bolts,4,89694.47,0.8064481317996979,17923.776015036703
+"ROD DRIL;P/N:6760363,DIA 25 X LG 2400MM",S:lanwood,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,44458.22,0.5993144512176514,17813.766278586387
+"HIRE,TECHN;ENVRNMNT,FLD SERV,MTHLY,LOC",S:corstonmining,Underground Production Equipment > Continuous Miners > Continuous Miners,9,3645213.0,0.9951422214508057,17707.637518644333
+"YOKE;FLANGE SPLINED,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,32998.2,0.5349758863449097,15344.9587072134
+"WEDGE;P/N:100034205,T/UP",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,88325.56,0.8269681930541992,15283.131246299745
+"REPR;MOTOR ELEC;4,1000 VAC,250SM,EXD1,",S:wexdaleelectric,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,36808.49,0.6191374659538269,14018.974775813222
+GENERAL MECHANICAL,S:calfieldequipment,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,33321.0,0.6122382283210754,12920.609994113445
+"NUT, HEX;P/N:01640246-0025,NOM SZ:1-1/4",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,61648.95,0.7928504347801208,12770.553188762067
+"STRAINER;P/N:100649567,REVERSE FLUSH",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,58867.47,0.7843509316444397,12694.715061948895
+"RESIN, ROOF BOLT;P/N:231050DS15T20,1800",S:yaraxtechnologies,Mining Operating Materials > Roof Support > Roof Support Resin,32,4042942.34,0.9969088435173035,12497.36742345929
+"COVER;P/N:7636JR031,BCK TIMING,ALUM",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,23753.6,0.5048791766166687,11760.901990318298
+"DISC BRK;P/N:001566939-0000,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,24458.050000000003,0.5197093188762665,11574.931542739272
+"RING RETAIN;P/N:SA10522,XTRNL,OPN END",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,40220.1,0.7167305946350098,11393.123810720443
+"ROD DRIL;1500MM,HEX STEEL,HOLE DP:1150MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,40793.11,0.7243207693099976,11245.813182252645
+UG Vent Constr SV,S:pelwick,Underground Services > Roof Support Services > Roof Support Services,6,199646.3,0.9440240263938904,11175.396019357442
+Drill stems,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,2,18338.25,0.39333096146583557,11125.24849589914
+C0nstructionpaper,S:altonconstructionlabourservices,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,79959.8,0.8732439279556274,10135.390169453622
+"PIN;P/N:01640245-0208,PLANET",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,5,106798.23999999999,0.88373281955719,9960.479592903852
+Ducts & Chutes,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,46023.0,0.7844164967536926,9921.799569904804
+CYLDR ASSY ACTNG LINEAR,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,2,42094.92,0.7795697450637817,9604.258346216679
+GEARBOX,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,6216552.46,0.9984880685806274,9399.00098445177
+Chains,S:eldley,Underground Production Equipment > Continuous Miners > Continuous Miners,1,417358.97,0.9777310490608215,9294.146426956057
+"FRAME;P/N:100068014,T/UP,5TL",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,74709.13,0.8786939382553101,9062.670336672069
+"HOUSING;P/N:SA13122,PLANETARY",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,15,1333119.98,0.993722140789032,8369.1395457685
+"PUMP;P/N:100160782,HYDRLC,IN SZ:39MM",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,24934.03,0.6644541621208191,8366.509988054633
+"PUMP;P/N:JHF5035030,HYDRLC",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,18643.26,0.5512988567352295,8365.252076182365
+"ROLLER CONVR;P/N:10074101,BOM,ROL:5TL",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,65907.42,0.8772075772285461,8092.931780415774
+"BUSH;P/N:01069125-0144,PLANETARY,BRS",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,3,92953.68,0.9226606885592142,7819.050795087218
+Construction paper,S:altonconstructionlabourservices,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,58272.76,0.8669673800468445,7752.177934701443
+"SPROCKET;FLIGHT CHN,SMPLX,ID:90MM,OD:345",S:ireion,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,24160.46,0.6824163198471069,7672.967800986767
+"REPR;BOX;P/N:8A/HA02/005/S39,SCRUBBER",S:calfieldequipment,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,2,64383.55,0.8811901807785034,7649.397936338186
+REPR;CYLINDER ASSEMBLY;P/N:AJHF58648700,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,288606.56,0.9738686084747314,7541.691016120911
+"PIN;P/N:30-8526-W50-B-Y,SHR,BRS",S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,2,74820.0,0.9007710218429565,7424.3121457099915
+"VALVE, RELIEF;P/N:00503014-0070,BODY:STL",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,17859.36,0.5915388464927673,7294.854786500931
+"ROD DRIL;DIA 60 X LG 1250MM,HEX STEEL",S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,5,80766.72,0.9098107814788818,7284.287359313965
+"BIT RCK;P/N:6189499,TWO PRONG,DIA:25.6MM",S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,13,7819217.74,0.9991843746258662,7143.705868464112
+EXTENSION;FLEXBL,S:glenmere,Mining Operating Materials > Roof Support > Roof Support Accessories,1,13390.38,0.48040151596069336,6957.62114871025
+magdrive,S:eldstoneservices,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,519870.24,0.9868236780166626,6849.977671794892
+"PINION;P/N:100145122,GEAR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,34764.78,0.8074221014976501,6694.9282742965215
+"REPR;HEAD, CYLINDER;P/N:SX1407JR002",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,50151.15,0.8685899376869202,6590.365746572614
+"BREAKER CIRCT;P/N:00603005-0018,250A",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,279588.39,0.9783288240432739,6059.009195147753
+"YOKE;FLANGE SPLINED,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,2,40331.14,0.8505175709724426,6032.0578033006195
+MECHANICAL MAINTENAN,S:blystonemining,Mining Operating Materials > Roof Bolts > Roof Bolts,1,33940.96,0.8297003507614136,5780.133582820892
+"MNTN,EQ;CM,COMPREPR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Rand Per Tonne Agreement,1,660917.95,0.9914159178733826,5673.373961755633
+"ROD DRIL;DIA HEX 25 X LG 3100MM,MS",S:dunax,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,3,49415.08,0.8852174878120422,5671.987022368909
+"UNIT;P/N:100833845,TRANSCEIVER",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,44005.88,0.8747702240943909,5510.846490929126
+"SUMP;P/N:0049JR878,OIL PAN",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,17386.95,0.6844289898872375,5486.8173742800955
+"RELAY OVRLD;P/N:100876721,THRML",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,98080.35,0.9457370042800903,5322.133612257243
+ASSEMBLY;GUARD GUIDE,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,25329.79,0.7910860180854797,5291.747289958596
+Conveyor belting,S:lordensolutions,Underground Services > Conveyors and Stone Dust Barrier Services > Conveyors and Stone Dust Barrier Services,1,30667.5,0.8339229822158813,5093.166942894459
+"ROD DRIL;SIZE WD AF 22 MM; LN1500 MM,STL",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,15765.27,0.6773305535316467,5086.970944324136
+"COUPLING;DRIL ROD,ID 38 X OD 48 X LG 185",S:dunax,Mining Operating Materials > Roof Support > Roof Support Accessories,2,7623.74,0.34231650829315186,5014.007943065166
+Conveyor frames,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,75429.0,0.9345917701721191,4933.677367687225
+"RELAY;P/N:100730130;THERMAL, 01L 2",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,25136.81,0.8102424144744873,4769.900373413563
+"MNTN,EQ;HM37 CM,MINI RBLD",S:prahaven,Underground Production Equipment > Continuous Miners > CM Full Overhaul,1,8167614.75,0.9994264841079712,4684.2568590939045
+"CAP;P/N:SA 10002,P/N:SA10002,RAIN,16IN",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,19067.640000000003,0.7620855569839478,4536.466950230599
+Gear units,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,3,348826.5,0.9870499968528748,4517.304531800747
+"SEAL;P/N:00901241-0573,3-1/2IN",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,6238.68,0.2760057747364044,4516.768293267489
+"CAP;P/N:SA 10527,KNG PIN,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,16681.87,0.7299625873565674,4504.729012854099
+"REDUCER;P/N:100875484-RPT,TRACTION RH",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,1482991.53,0.9969949722290039,4456.430731801986
+"RESN,ROOF BOLT;P/N:231050DS15T20,1800",S:yaraxtechnologies,Mining Operating Materials > Roof Bolts > Roof Bolts,1,9567.69,0.5501194000244141,4304.318117580414
+"P1N;P/N:01640245-0208,PLANET",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,13801.68,0.6953631639480591,4204.500127401352
+SPROCKET;P/N:01069812-0088,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,14886.14,0.7217952013015747,4141.395582096577
+Maint Mech Equip Gen,S:selfordmotors,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,38189.89,0.8950135707855225,4009.4201831936834
+"REPR;WHEEL;P/N:00541010-0031,UNIT LH,STL",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,368676.42,0.9895662069320679,3846.693475306034
+"KIT;P/N:100749837,MNTG",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,18832.37,0.7993838787078857,3778.0770241379737
+"PULLEY GRV;OD:305MM,38MM,PTFE,GRV WD:58",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,4,53018.71,0.9286991357803345,3726.348975965977
+"VALVE;P/N:02JR050,FUEL SHUT OFF,BODY:BRS",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Diesel Equipment Maintenance > Flameproof Diesel Equipment Engines,1,9613.49,0.6181312799453735,3671.091121557951
+"PIN COTR SPLT;P/N:100032702,DIA:63.5MM",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,8728.95,0.5836255550384521,3634.5117113471033
+GENERAL MECHANICAL,S:redstone,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,8526.0,0.5755707025527954,3618.6841900348663
+"SHAFT;P/N:0053168-0025,DRIVE LONG",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,30724.01,0.8823917508125305,3613.397024118304
+Rod,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,7876.46,0.5446727871894836,3586.36657861352
+ELECTR1CAL,S:wynmontequipment,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,237640.72,0.9849750399589539,3570.542322125435
+5ECURIY SERVICE:NEW,S:velwardindustrial,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,4009.57,0.11133577674627304,3563.161409631446
+"ROD DRIL;1500MM,HOLE DP:1200MM,BLU",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,2,9347.869999999999,0.6226507127285004,3467.1891698300838
+magnetic couplings,S:eldstoneservices,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,228002.42,0.9851195216178894,3392.7850818789007
+"RODDRIL;COLLAR/SHANK 60 MM X LG 2 M,STL",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,16402.28,0.7950682044029236,3361.3486922860143
+"REPR;TRANSMITTER;P/N:100825935,1-WAY,",S:prahaven,Underground Production Equipment > Continuous Miners > CM Repair Items,12,397941.12,0.9924065470695496,3305.8207848751545
+KIT;P/N:101011433 Mnfr:JOY GLOBAL AFRICA,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,48950.59,0.9338211417198181,3239.4941583412883
+CONSTRUCTION PPER,S:altonconstructionlabourservices,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,14858.82,0.794512152671814,3053.306935636997
+ARM;P/N:100355742,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,94265.22,0.9676253199577332,3051.8063366138936
+SOFTWARE;P/N:100252959,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,9403.63,0.6851269602775574,2960.949562525153
+"STARTER, AUTOMOTIVE;P/N:FLP788128,ELECTR",S:normore,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,34672.68,0.9147201776504517,2956.879990782738
+Construction pper,S:altonconstructionlabourservices,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,14273.71,0.794512152671814,2933.073941286802
+"COUPLING;DRIL ROD,ID 38 X OD 48 X LG 185",S:dunton,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,8,137355.61,0.9837447628378868,2879.0060197061302
+"RING, WEAR;P/N:SA 2076,ID:52MM,OD:76MM",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,11417.18,0.7481945753097534,2874.9078586649894
+"38mm two prong,Solid CB-038-02-11-2-1-00",S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,7571.11,0.6207737922668457,2871.1633336305617
+"REPR;GENERATOR, ENGINE ACCESSORY",S:normore,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,2,112568.78,0.974521815776825,2868.0481146180628
+"38mm two prong,SolidCB-038-02-11-2-1-00",S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,8506.86,0.6679434180259705,2824.7588549315933
+"MACH,EQ;LN BOR,CUTR BOM 12HM31AAA",S:prahaven,Underground Production Equipment > Continuous Miners > CM Line Boring,1,41485.36,0.9348616600036621,2702.287484550476
+"ROD DRIL;P/N:7853-2528-61,MS,PINK,INDCTR",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,6,30656.65,0.9153128266334534,2596.2250333875418
+"ARM;P/N:100654341,TORQUE",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,16937.21,0.853191077709198,2486.5335467129944
+"PULLEY GRV;OD:305MM,38MM,PTFE,GRV D:58",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,9584.79,0.7479049563407898,2416.2780535143615
+PIN GRV HEAD;P/N:100186579,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,6513.31,0.6295347809791565,2412.95481570065
+REPR;GOVERNOR;STM TURB,S:marfordindustrialsupplies,Underground Production Equipment > Continuous Miners > Continuous Miners,1,5607.15,0.5759697556495667,2377.601184609532
+ExplsionProofEnclsre,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,195750.0,0.9878888726234436,2370.7531839609146
+"LIGHT UNIT;P/N:100441325,LED BOOM",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,11906.8,0.8013157248497009,2365.693927359581
+GENERAL MECHANICAL,S:kelmont,Mining Operating Materials > Road Maintenance Material > Road Maintenance Material,11,50083.76,0.9536192417144775,2322.9227665901185
+"HOUSING;P/N:01564663-0002,PLANETARY,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,4,415573.33999999997,0.9944528043270111,2305.2666334575415
+"TRAIN,PERS;WKND,CSTMR PREMIS,CLASROM",S:prahaven,Underground Production Equipment > Continuous Miners > CM Field Service,1,7359.8,0.6892901659011841,2286.7622370004656
+"R0D DRIL;1500MM,HOLE DP:1200MM,BLU",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,5498.75,0.5874525308609009,2268.4953959286213
+"ARM;STEERING, UPPER,LG 700MM,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,3,22606.43,0.9157642920811971,2185.6485089361668
+Maint Meh Equip Gen,S:selfordmotors,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,25795.53,0.9155125617980957,2179.3982467603682
+"CLAMP;GASIFR G/BX,WD 45 X LG 52 X THK 20",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,2,30479.72,0.9286791086196899,2173.8407994222644
+REPAIR DRILL STEELS,S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,2,12211.59,0.8317673206329346,2054.3885050320628
+"ROD DRIL;SIZE WD AF 22 MM; LN1500 MM,STL",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,5,21718.83,0.9077160358428955,2004.2997292542457
+"MNTN,EQ;CM,CMP REPR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Rand Per Tonne Agreement,1,537609.52,0.9963058233261108,1986.024548444748
+CYLDR ASSY ACTNG LINEAR,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,44927.85,0.9559363126754761,1979.6867345631122
+"HOUSING;P/N:SA14608,WHEEL DRIVE,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,135070.84,0.9854287505149841,1968.1509077906608
+DRILL&OPERTIONACCS,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,1,44918.1,0.9563964605331421,1958.5881461262702
+BITRCK;DIA:25MM,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,30296.88,0.9354445934295654,1955.8274062156677
+SPROCET;TWO HALVES WITH BRASS BUSHES,S:ireion,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,29795.5,0.9376915097236633,1856.5126220285892
+"5HAFT;P/N:SA2102,WOR,OD 76 X LG 419MM",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,113835.01,0.9844076633453369,1774.9537990069389
+"ROD DRIL;P/N:6755148,DIA 25 X LG 3090MM",S:lanwood,Mining Operating Materials > Roof Support > Roof Support Drill Steel,2,109718.84,0.9840667247772217,1748.1804748439788
+"PIN;P/N:01640060-0007,RETAINING,5TL",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,5659.75,0.6979873776435852,1709.3159393817186
+MinngEquipMaintTrain,S:caldaleelectrical,Mining Operating Materials > Roof Support > Roof Support Accessories,1,10473.02,0.8370710015296936,1706.3586595594884
+SPROCKET;P/N:HS-OX,S:ireion,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,11790.83,0.8559251427650452,1698.7621489316225
+PICK DB370 MCH 30MM SHANK 81MM REACH,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,83520.0,0.9796868562698364,1696.5537643432617
+"PLATE;P/N:5A13918/0,BACK,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,47043.48,0.9641507267951965,1686.474567024708
+"HOUSING BRNG UNT;P/N:BA108,150.93MM",S:ashmont,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,16495.2,0.8982980251312256,1677.5944158554078
+"WINCH;P/N:100071960,SP0OLINGDEVICE",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,108782.82,0.9848732948303223,1645.5256456661225
+PIN;DIA 2IN,S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,5158.46,0.6814829707145691,1643.057354887724
+"SWIVEL;P/N:3760 0083 63,LG 190MM",S:corlyndrillingservices,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,5748.96,0.7183850407600403,1618.993136072159
+SHEAR PINS,S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,5598.45,0.7133403420448303,1604.8497620791197
+"Cars,Trucks,Bus&ldv",S:ulmoremotors,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,567861.86,0.9972259402275085,1575.2827421581744
+"VALVE, RELIEF;P/N:100231352",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,6351.23,0.7523152232170105,1573.1029848474263
+replace Jasridge,S:oakfieldelectricalmotorpump,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,40796.59,0.9621689319610596,1543.3785720467565
+"EXTENSION, TOOL;ROD SPINNING ADAPTOR,22",S:dunax,Mining Operating Materials > Roof Support > Roof Support Accessories,6,392537.79000000004,0.9960798621177673,1538.8022607868909
+"CARRIER;P/N:01069145-2100,8RNG",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,-21536.92,0.9295377731323242,1517.5393430709837
+"CYLINDER;P/N:100325475,HYDRLC",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,187258.94,0.9920663833618164,1485.6407210350037
+Mining services,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,2,-14312252.65,0.9999070167541504,1394.5755055189134
+"JASRIDGE;PVT,Suppl P/N:JH30720000,0",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,9617.15,0.8552830815315247,1391.7643124490976
+"ROD DRIL;1500MM,HEX STEEL,HOLE DP:1150MM",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,3,46546.86,0.9701936841011047,1387.390413261652
+"BLD,WAL,UG;VNT,BRATC,REINSTL",S:yarbury,Underground Services > Ventilation Structure Services > Ventilation Structure Services,2,23836.260000000002,0.9418345093727112,1386.4477576196196
+"ROD DR1L;SIZE WD AF 22 MM; LN1500 MM,STL",S:dunax,Mining Operating Materials > Roof Support > Roof Support Accessories,1,3153.05,0.5627184510231018,1378.770588001609
+"PROTECTOR OVRLD;P/N:00601548-0074,THRML",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,7182.55,0.8093526363372803,1369.3342218756677
+MINING SERVICES,S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,10306.51,0.8679780960083008,1360.685073709488
+"SPACER;LANTERN,ID 259 X OD 287 X THK 17",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,7148.2,0.8197426199913025,1288.5158037781714
+CABLE PWR ELEC;P/N:100225061,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,15669.27,0.9179845452308655,1285.1223049503565
+Adaptors,S:kinmont,Underground Services > Roof Support Services > Roof Support Blasting or Barring,1,11136.0,0.8853111267089844,1277.17529296875
+"BIT RCK;P/N:6189499,TWO PRONG,DIA:25,6MM",S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,33,3326980.21,0.9995941266869054,1266.6236599236727
+"MESH 3MX2,2MX5,6MM APUTURE 100MMX75MM",S:praton,Mining Operating Materials > Roof Support Mesh > Roof Support Mesh,1,176982.36,0.9928900003433228,1258.3445188379287
+"MESH 3MX2,2MX5,6MM APETURE 100MMX75MM",S:praton,Mining Operating Materials > Roof Support Mesh > Roof Support Mesh,1,176982.36,0.9930679798126221,1226.8452923297882
+"COLUMN;P/N:100754438,STERG",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,24469.14,0.9502976536750793,1216.173670552969
+"WHEEL;QUICK CHANGE SPARE,SOLID RUBBER",S:zanariindustrialsuppliesengineering,Flameproof Diesel Equipment > Flameproof Tractor Trailers > Flameproof Tractor Trailers,1,50166.39,0.975888192653656,1209.602330941558
+IntrinsicSafeBarrier,S:kelden,Underground Services > Underground Explosive and Water Seals > Underground Explosive and Water Seals,1,14616.0,0.9173427820205688,1208.1178979873657
+Mcchanica seals,S:falora,Underground Production Equipment > Continuous Miners > Continuous Miners,1,45132.12,0.974105179309845,1168.6881547665596
+"REPR;CHASSIS;P/N:JHF14888300,CONTROL",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,23484.66,0.9505009651184082,1162.4680045223236
+Picks,S:oakentmining,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,83272.27,0.9864185452461243,1130.9585672575236
+"HANDLE;CV,STL & PLSTC",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,4640.41,0.7685922384262085,1073.8268908846378
+"CARR1ER;P/N:10005792,BRNG",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,27115.13,0.961972177028656,1031.1293634849787
+"SENSOR;P/N:100143004,BRAKE PRESSURE",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,12045.03,0.9158185124397278,1013.9685431081057
+Mech (materials),S:yaraxtechnologies,Mining Operating Materials > Roof Bolts > Roof Bolts,4,77417.98,0.9873676896095276,977.9679531633853
+"CONE, JASRIDGE;P/N:0950122-0001,BORE:TPR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,21025.32,0.9547133445739746,952.1664220619201
+"REPR;GEARBOX;P/N:100191081,TRACTION",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,2,602252.8200000001,0.998406708240509,936.8057165277005
+"VALVE;P/N:100909647,SECT",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,385699.31999999995,0.9984402457873026,921.2923090839386
+"CARRIER;P/N:J84-0019,BRNG,CM-12HM09",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,5913.64,0.8495389819145203,889.7722949910165
+H0RN;P/N:542205015 MNFR:FENICA MINING,S:oakentmining,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,14780.8,0.9405558705329895,878.6317888259887
+"ARM;P/N:SA 10600,STERG,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,33392.28,0.9744517803192139,853.1133050823212
+Fix Roller door Boilershop,S:lanley,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,24249.16,0.9648255109786987,852.9518121957778
+"YOKE;FLANGESPLINED,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,36664.67,0.9767753481864929,851.5241946071386
+Coupling,S:blystonemining,Mining Operating Materials > Roof Bolts > Roof Bolts,3,12579.51,0.9325171113014221,848.9016732126474
+"REPR;ASSEMBLY;P/N:H-10-129,C7.1 ENGINE",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,361050.0,0.9976546168327332,846.8005925416946
+"ROD END;P/N:00541995-704,5HNK:30MM,83MM",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,17755.31,0.9526426196098328,840.8449696153403
+Mechanical Maintenan,S:blystonemining,Mining Operating Materials > Roof Bolts > Roof Bolts,1,3806.25,0.7844642400741577,820.3829862177372
+Production of the Company  buyback  centre ini,S:dalden,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,20973.96,0.961013913154602,817.6926260519027
+"SEGMENT;SECONDARYCSHR,STL",S:jasicaservices,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,249985.8,0.996792733669281,801.7710394978523
+SENSOR CURR;P/N:100765314,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,29154.47,0.9733414649963379,777.2154590082168
+"NUT, HEX;P/N:2888035,NOM SZ:M24,MTRC",S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,3179.05,0.7624821662902832,755.0810692548753
+MECH ENGINEERING,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,57298.2,0.9870088696479797,744.3683851361275
+"CABLE ASSY;P/N:100781181,LAN CAT 5",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,1785.16,0.5945020914077759,723.8786465024948
+Maintenance fees,S:victordanby,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,2,35009.47,0.9793835282325745,721.7717498475313
+MANIFOLD;P/N:100469657;BODY ASSEMBLY,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,292827.49,0.9976268410682678,694.926173350215
+"MACH,EQ;LN BOR,BOM 12HM31AAA,MAINFRAM",S:prahaven,Underground Production Equipment > Continuous Miners > CM Line Boring,1,21639.34,0.9682088494300842,687.9395161736012
+"MNTN,EQ;CM,OTSD SCP ADD",S:prahaven,Underground Production Equipment > Continuous Miners > CM Full Overhaul,1,4930293.84,0.9998619556427002,680.5992444419861
+KIT CABL JNT;COPPER (3) CORE 70-185MM2,S:prarickmechanical,Underground Services > Ventilation Structure Services > Ventilation Structure Services,2,67775.93,0.9899003803730011,677.2011688834428
+"J0INT;P/N:03050833-0022,BEL,LG 400MM,5TL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,84195.12,0.9920833110809326,666.5465735435486
+SUG: P/N: 5112234880 (VALVE BLOCK),S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,1,7395.44,0.910302996635437,663.3488065624236
+Mining engineering,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,3636122.62,0.9998219609260559,647.3719040119648
+CYLDR ASSY ACTNG LINEAR,S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,2,193250.32,0.9964991509914398,642.4853974479437
+"MANIFOLD;P/N:100227504,HYDRLC,STL",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,54645.61,0.9883726239204407,635.3850585669279
+"BOARD;P/N:01069545-0009,SIDE FLEXIBLE",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,19,1480367.27,0.999642833283073,630.5461973303557
+"MNTN,EQ;ADD",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Full Overhaul,3,1257053.02,0.9994884530703226,629.7054050385951
+pick DB370 MCH 30mm SHANK 81mm reach,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,83520.0,0.9925495386123657,622.2625350952148
+CYLINDER;P/N:100325475HYDRLC,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,31209.82,0.9801819920539856,618.5164607536793
+KIT;P/N:100687996 Mnr:JOY GLOBAL AFRICA,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,1234.01,0.5073864459991455,607.8900517725945
+SP to collect & repair screw feeder,S:ivesmont,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,77382.15,0.9921584129333496,606.7988666296005
+"FAN;P/N:L9DAL001,COLNG,MS",S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,18024.49,0.9675740599632263,584.4610319334269
+Ventilation,S:velwoodengineeringconsulting,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,51747.6,0.988725483417511,583.4291743040085
+LORDEN MACHINAR,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,3444820.83,0.9998435974121094,538.7788926315308
+"MNTN,EQ;CM,COMP REPR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Rand Per Tonne Agreement,20,12530237.53,0.9999569416046142,537.2808189225196
+"TRANSFORMERPWR;P/N:00602401-2030,CNTRL",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,9924.6,0.9464197754859924,531.7622962117196
+"MACH,EQ;LN BOR,SHR CYL 12HM31AAA",S:prahaven,Underground Production Equipment > Continuous Miners > CM Line Boring,1,24628.2,0.9787130355834961,524.2596170425415
+Chains,S:oakcrest,Underground Services > Substations and Cable Repairs > Substations and Cable Repairs,1,16743.15,0.9687910676002502,522.5358365088701
+MECHANICALDRAWING,S:ireion,Underground Production Equipment > Continuous Miners > Continuous Miners,1,720360.0,0.9992796778678894,518.8912510871887
+"BAG;P/N:DUBACO,5TNEDST,WD308 X LG 545MM",S:nexora,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,-1030.3,0.5009852647781372,514.1348816990852
+"PIN;P/N:01069432-0194,PLANET",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,4,125886.51000000001,0.9959704875946045,507.2612537169457
+Enaex Africa (Pty) Ltd - AEL newspaper a,S:dalden,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,3301.25,0.8477525115013123,502.6070214062929
+38mm two prong,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,4318.21,0.884777307510376,497.55578293561933
+"SHIM SET;P/N:AD13802/1/2/3/4,QTY:16",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,1753.6,0.7170030474662781,496.26345596313473
+Conveyors&Accessries,S:redtonsolutions,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,336690.0,0.9985276460647583,495.7268464565277
+"COUPLING;DRIL ROD,ID 38 X OD 48 XLG 185",S:dunton,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,15082.54,0.967341423034668,492.574293422699
+"SHAFT ASSY;P/N:90-CA-F15HS-SH,HD",S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,157182.9,0.9968806505203247,490.3083973288536
+HOSE ASSEMBLY;P/N:100940245,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,3596.69,0.9556455612182617,478.5874992656708
+IndMachinryComponent,S:mardaleequipment,Underground Production Equipment > Continuous Miners > Continuous Miners,1,54479.4,0.9914053678512573,468.23040268421175
+FABRICATE PIE CHUTE ON CB 0002,S:calmore,Mining Operating Materials > Roof Bolts > Roof Bolts,1,104400.0,0.9955952763557434,459.8531484603882
+"B1T RCK;DIA:36M,45MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,1202.17,0.6219818592071533,454.4420683169365
+"RE5IN,ROOF BOLT;P/N:231050DS15T20,1800",S:yaraxtechnologies,Mining Operating Materials > Roof Support > Roof Support Resin,1,138048.16,0.9967595934867859,447.3321568012238
+"RODDRIL;P/N:5950087,CONCTN:M16 DIN 405",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,233789.88,0.9980941414833069,445.5704339146614
+"BOX ELEC;P/N:100349287,EMERG STOP,WD:105",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,167308.18,0.9978001713752747,440.74570841372014
+"HOUS1NG;P/N:01564663-0002,PLANETARY,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,46174.82,0.99049311876297,438.97852988123896
+"ARM;P/N:01565541-0000,LEFT HAND REAR",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,46990.05,0.9908978343009949,427.7112213045359
+Pins or tacks,S:kelden,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,14908.32,0.9714311361312866,425.91376459121705
+Compressor parts,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,295184.47,0.9985687732696533,422.4759038472175
+"ROD DRIL;DIA 60 X G 1250MM,HEX STEEL",S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,24594.9,0.9829120635986328,420.2760869979859
+Measuring rods,S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,21758.7,0.9810627102851868,412.0508057177067
+"MOUNT;P/N:100014097,CUTTER DRUM",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,21906.01,0.981316328048706,409.28470460176464
+"KIT;P/N:00541297-0001,SWITCH PUSHBUTTON",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,9749.19,0.9587623476982117,402.0337074440718
+"BU5H;P/N:01640038-0142,CLEVIS,BRS",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,1046.24,0.625299870967865,392.02626299858093
+"COVER;P/N:SA2035,CNVYR RDCR,STL,GR EN8",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,7218.56,0.9487133622169495,370.2156720352173
+"EXTEN5I0N, TOO;HEX 22 X 32MM,600MM",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,12234.16,0.9703670740127563,362.5339577960968
+"BLD,WAL,UG;VNT,VEH,REINSTL",S:kinley,Underground Services > Conveyors and Stone Dust Barrier Services > Conveyors and Stone Dust Barrier Services,1,19374.02,0.9813175797462463,361.9535836446285
+"PLATE;P/N:5A2046,KEEPER,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,5602.29,0.9356390833854675,360.5685195404291
+"PLUG, VLV;P/N:M0402 E5000000,SZ:1-1/4IN",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,37562.96,0.9913321435451508,357.4877945870161
+SUPPLY: 20X HT-S408-T38,S:dunton,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,1937.32,0.8158984184265137,356.66367601394654
+"PINION;P/N:SA10019,12 TEETH,116",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,3,156876.4,0.9981733560562134,350.91277112126346
+"WEDGE;BUILDERS,WD:100MM,THK:32MM",S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,1,20415.42,0.9831379652023315,344.24552244901656
+"WHEEL;P/N:VE7551/1200,QUICK CHANGE SOLID",S:glenmere,Flameproof Diesel Equipment > Flameproof Tractor Trailers > Flameproof Tractor Trailers,1,73260.99,0.9953250885009766,342.4886445808411
+"REPR;CYLINDER;P/N:BD00013421,QDS, LOCK ; CYLINDER;P/N:BD00013421",S:hartward,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,33381.9,0.9899340271949768,336.02129758000376
+"FLANGE SPECIAL;P/N:00911859-0016,1IN,STL",S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,894.93,0.626445472240448,334.30515352785585
+Engines,S:wynmontequipment,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,237640.72,0.9986057877540588,331.32160195827487
+LAMP LED;SERIES MAXI LIGHTLED S316,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,18359.73,0.9821346998214722,328.00208764672277
+KIT;P/N:J34-1051 Mnfr:JA ENGINEERING CC,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,155242.8,0.9978876709938049,327.92386944293975
+"SPROCKET;P/N:100556214,DUAL DRV;DUAL",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,127737.97,0.9974464178085327,326.1894053661823
+SPROCKET;P/N:C-11LAFS,S:ireion,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,26118.64,0.9876086711883545,323.64465635299683
+"BOX ELEC;P/N:100349287,EMERG STOP,WD105",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,33461.64,0.9905067682266235,317.65910403728486
+"DR1LLBIT, 25,6MM DIA, ATTACHMENT MEHOD",S:pelfieldsteel,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,993.89,0.680416464805603,317.6308797943592
+"REPR;GENERATOR, ALTERNATING CURRENT",S:velwardindustrial,Underground Production Equipment > Continuous Miners > Continuous Miners,1,739.5,0.5815019607543945,309.47930002212524
+"BLD,WAL,UG;AIR XNG,ROLAWAL,INST",S:yarbury,Underground Services > Ventilation Structure Services > Ventilation Structure Services,1,28670.73,0.9895011782646179,301.0088832932711
+INSTRUCTION MANUALS,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,18422.25,0.9836709499359131,300.81784254312515
+"VALVE;P/N:30-8400-PV,PADL,1/21,BODY:BRS",S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,37410.0,0.9921769499778748,292.6603013277054
+"EXTEN51ON, TOOL;HEX 22 X 32MM,600MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,66892.47,0.9957275390625,285.79546508789065
+"LINK;P/N:UV-82700094,BUSH END RH,CI",S:talionminingequipment,Underground Production Equipment > Roof Bolters > Roof Bolters,1,13022.16,0.9780635833740234,285.65952713012695
+"SUPPORT;P/N:400545,ROF,STL,B285",S:ivesvaleminingproducts,Mining Operating Materials > Roof Support > Roof Support Accessories,3,-183463.86000000002,0.9984610080718994,282.349399638176
+BEAR1NGS,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,85941.76,0.9968012571334839,274.90559173583983
+"FILTER, FLUID;P/N:100663432",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,0.0,0.999004065990448,268.87885780453684
+BITRCK;DIA:25MM,S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,1,261939.6,0.9989848732948303,265.90188310146334
+Battery chargers,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,161520.73,0.9984014630317688,258.1968580406904
+"BOLT MACH;P/N:5337563,DIA:M24,170MM,MS",S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,2895.64,0.911119818687439,257.3650082159042
+"SADDLE;P/N:AD13199,PRPSHAFT",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,976.8900000000001,0.743617594242096,250.4574083608389
+Repair workshop roller Lanley,S:lanley,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,92560.17,0.9973383545875549,246.36235185563564
+"MOTOR ELEC;P/N:13920B,P/N:600306-0100",S:halridgeelectricmotors,Underground Production Equipment > Continuous Miners > Continuous Miners,1,240729.0,0.9989826083183289,244.91568213701248
+"COMPOUND, ELECTRICAL INSULATING",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,5506.01,0.9560824632644653,241.81039644122126
+"SEAT VLV;ANGLE CONTROL,SZ:NPS 3 X 2",S:ivesfordminingtools,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,2,123044.55,0.9981231391429901,237.96493476927282
+No Objcct,S:kelmont,Mining Operating Materials > Road Maintenance Material > Road Maintenance Material,5,21314.11,0.9890787243843079,232.64433208048342
+"MOTOR ELEC;P/N:100821351,37KW,1000VAC",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,4,1690186.82,0.9999319314956665,230.09697776317597
+F1owmeters,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,187496.54,0.9987917542457581,226.5418983900547
+"REPR;ASSEMBLY;P/N:A2U900-250135,PURFR",S:calfieldequipment,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,36975.0,0.9941813349723816,215.14513939619064
+"ROD DR1L;COLLAR/SHANK60 MM X LG 2 M,STL",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,7289.9,0.9710047245025635,211.3726588487625
+"ARM;STERG REAR RIGHT HND,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,3,18513.78,0.9886101881663004,210.86847053050997
+GENERAL MECHANICAL,S:altonconstructionlabourservices,Underground Services > Conveyors and Stone Dust Barrier Services > Conveyors and Stone Dust Barrier Services,5,139819.9,0.9984956979751587,210.3313586831093
+P1PBENDING MANDREL,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,30343.51,0.9931365251541138,208.2619176208973
+5PRING;P/N:V70056/1THERMAL VALVE,S:yarmoreequipment,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,1998.22,0.8958259224891663,208.1627251636982
+SUPPLY HYDRAULIC HAND  PUMP HP227FPC(531,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,27302.17,0.9924623966217041,205.79292882680892
+PIPE8ENDING MANDREL,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,-30343.51,0.9935370087623596,196.10983924925327
+Paddles,S:ireion,Underground Production Equipment > Continuous Miners > Continuous Miners,3,15229.349999999999,0.9871886372566223,195.10872719585893
+Universal joints,S:oakcrest,Underground Services > Substations and Cable Repairs > Substations and Cable Repairs,1,62553.0,0.9969896078109741,188.3090626001358
+Hoses,S:estionmotorengineering,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,2,13538.38,0.9889997839927673,183.05956412792204
+Pipe bending mandrel,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,-23475.99,0.9922760128974915,181.32824397861958
+Fosgel 20kg,S:halford,Mining Operating Materials > Roof Support > Roof Support Resin,2,247992.28,0.9993396103382111,180.72367263615132
+65ton Nexmore roller Lanley,S:lanley,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,40152.77,0.9955030083656311,180.56667078673837
+PIPE BENDING MANDREL,S:velwoodengineeringconsulting,Underground Production Equipment > Continuous Miners > Continuous Miners,1,23475.99,0.9923492670059204,179.60853126168251
+"JOINT;P/N:03050833-0022,8EL,LG 400MM,STL",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,16839.02,0.9894084930419922,178.35059749603272
+"CONVERTER, SIGNAL;P/N:100167012",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,12888.61,0.9865663647651672,173.14088542401788
+"SHAFT;P/N:J35-0528-M-LONG-S,TORQUE,STL",S:wextonengineering,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,26413.2,0.9935494065284729,170.38081548213958
+Braking systems,S:stomereservice,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,16585.68,0.9900512099266052,165.00744854450227
+"GEAR;P/N:11156979,TENSION",S:corstonmining,Underground Production Equipment > Road Header > Road Header Maintenance Spares,1,37491.88,0.9956046342849731,164.79052394390106
+BIT;P/N:100808398 Mnfr:JOY GLOBAL AFRICA,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,69289.71,0.9976465106010437,163.07259794175624
+Drill stems,S:calburyengineeringsolutions,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,19575.0,0.9919047355651855,158.46480131149292
+CARRIER,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,5792.46,0.9730894565582275,155.8782464647293
+"RODDRIL;COLLAR/SHANK 60 MMX LG 2,2 M",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,31110.16,0.9950791597366333,153.08812792778016
+"PUMP;P/N:787844,WTR",S:normore,Flameproof Diesel Equipment > Flameproof Tractors and Multipurpose Vehicles > Flameproof Tractors and Multipurpose Vehicles,1,4527.18,0.9663505554199219,152.3370925140381
+Electrical Maintenan,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,3,684846.6,0.999778687953949,151.56480227708818
+"CHAIN CONVR;P/N:NA-515,FLGT,WD:27-1/2IN",S:ireion,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,4,2156926.6100000003,0.9999322891235352,149.55308076262475
+"GAUGE PRESS;P/N:JHF13211200,DIAL:50MM",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,7100.04,0.9790554642677307,148.70704148054122
+"REEL, CABLE;ROLR ARRANGEMENT",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,29470.21,0.994985818862915,147.76897108793258
+"EXTENSION, TOL;HEX 22 X 32MM,600MM",S:dunax,Mining Operating Materials > Roof Support > Roof Support Drill Steel,1,77297.97,0.9980985522270203,146.97805291235449
+"SHIM;P/N:53-1230_22,PLT,THK:10MM",S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,377.23,0.6190261840820312,143.71475257873536
+"O RING;P/N:00910659-0244,ID:4 7/32",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,3,764.2,0.816317081451416,140.37048635482788
+"BOLT MACH;P/N:0406-1,FLT CSK,DIA:20MM,60",S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,309.34,0.5463525652885437,140.33129745364187
+Feeders,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,2,1183275.69,0.9998788237571716,139.0039037883282
+Mechanical gripper,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,3,129341.16,0.9989266991615295,138.82197547674178
+STATION;P/N:100231113,S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,2,101303.92,0.9990749061107635,136.95658370614052
+"COVER;P/N:10082406,ASSY",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,7310.1,0.9814338088035583,135.7207142651081
+N0 Objcct,S:kelmont,Mining Operating Materials > Road Maintenance Material > Road Maintenance Material,2,8292.99,0.9841336011886597,131.57988667845726
+"ARM;STEERING RH FRONT,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,4,24014.32,0.9945589900016785,130.66215522289275
+REPR;GEARBOX;P/N:100191081-RPT,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,678600.0,0.9998117089271545,127.77432203292847
+"REPR;GEARBOX;BREAKER CONE DRIVE,20:1,127",S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,2,255215.36,0.9995003938674927,127.50715896606445
+"HIRE,TECHN;ENVRNMNT,FLD SERV,MTHLY,INTL",S:corstonmining,Underground Production Equipment > Continuous Miners > Continuous Miners,4,137281.22,0.9991214871406555,120.60331711649894
+RELAY;P/N:100730129;THERMAL 0IL 1,S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,27227.75,0.9956875443458557,117.41846443712711
+"VALVE CHK;P/N:AJHF57019600,TRAM",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,3913.49,0.9701584577560425,116.7845771563053
+SHIM;P/N:J35-0032 Mnfr:JA ENGINEERIN CC,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,309.72,0.6233164668083191,116.66642390012743
+5UPPLYHYDRAULIC HAND  PUMP HP227FPC(531,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,27302.17,0.995762288570404,115.69871786177157
+"ROD DRIL;COLLAR/SHANK 60 MM X LG 2 M,STL",S:ivesfordminingtools,Mining Operating Materials > Roof Support > Roof Support Drill Steel,2,29159.62,0.995361715555191,113.54087654948235
+"SHIM SET;P/N:AD 13803/1/2/3/4,QTY:16",S:pelentengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,1006.73,0.8872482180595398,113.5106014329195
+"BLD,5EAL;INSTREINFG",S:pelwick,Underground Services > Underground Explosive and Water Seals > Underground Explosive and Water Seals,1,60253.72,0.9981275200843811,112.82388054132461
+REPAIR STACKER WHEELS,S:nexstoneengineeringsupplies,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,36602.83,0.9969825148582458,110.44849567115307
+"REPR;DRUM;P/N:100091728,LH,LACING ; REPAIR 1SET CUTTER DRUMS MINI MEGA CM123",S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,167517.19,0.9993496537208557,108.94418120920658
+MAGNESUIM PRODUCT,S:caldaleelectrical,Mining Operating Materials > Roof Support > Roof Support Accessories,2,18654.98,0.9943735599517822,104.9611265707016
+"M0DEM;P/N:10001001MNFR:SAMICO INC,200",S:garvale,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,160934.64,0.9993504881858826,104.52894998073579
+FABRICATE PIPE CHUTE ON CB 0002,S:calmore,Mining Operating Materials > Roof Bolts > Roof Bolts,1,26100.0,0.9960914254188538,102.01379656791687
+"8RACKET;P/N:2323/14 MNFRHALICA,CS,0",S:dunton,Mining Operating Materials > Roof Support > Roof Support Accessories,1,55460.32,0.9982179999351501,98.83029383659363
+PLANNING MATERIAL,S:ireion,Underground Production Equipment > Continuous Miners > Continuous Miners,2,37130.43,0.9973401427268982,98.76164428889751
+"REPR;GEARBOX;P/N:00541033-0083,ANTI",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,29065.48,0.9966838955879211,96.38416646718979
+"ROD DRIL;COLLAR/SHANK 60 MM X LG 2 M,STL",S:dunton,Mining Operating Materials > Roof Support Drill Bits > Roof Support Drill Bits,3,159396.08,0.999591330687205,94.81558821082115
+"REPR;CASING;GEARBOX HOUSING,WD 1240 X LG",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,2,357040.18,0.9996850788593292,93.61623343884945
+HORN;P/N:542205015 Mnfr:FENICA MINING,S:oakentmining,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,14780.8,0.9937689900398254,92.09931201934813
+"MNTN,EQ;CM,C0MP REPR",S:prahaven,Underground Production Equipment > Continuous Miners > CM Rand Per Tonne Agreement,2,1162700.52,0.9999234676361084,88.98421929359435
+CARTRIDGE;P/N:100229370,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,16803.18,0.9947978258132935,87.41306925058365
+Microcontrollers,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,319680.38,0.9997283816337585,86.83106253504754
+Screen drum or sieve,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,212472.94,0.9996008276939392,84.81331343531609
+"O RING;P/N:00910659-0244,ID:47/32",S:prahaven,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,334.34,0.7472414970397949,84.50727787971496
+No0bjcct,S:kelmont,Mining Operating Materials > Road Maintenance Material > Road Maintenance Material,1,6500.74,0.9871965646743774,83.2318041586876
+"CAPACITOR;P/N:100213891,5UF",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,2153.15,0.9614300727844238,83.04683878421784
+GENERAL MECHANICAL,S:pellyn,Underground Production Equipment > Continuous Miners > Continuous Miners,3,110277.94,0.9988889892896017,82.94564322173596
+"SENSOR;P/N:100451176,POSITION",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,4822.5,0.9828101396560669,82.8981015086174
+COMPONENTS,S:calburyengineeringsolutions,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,54570.75,0.9984908103942871,82.35760867595673
+"ARM;P/N:SA 10604,STEERING LH REAR",S:pelentengineering,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,2,12342.52,0.993626743555069,78.66204513669014
+Mechanical drawing,S:ulcrest,Underground Services > Underground Explosive and Water Seals > Underground Explosive and Water Seals,2,17226.0,0.995497465133667,77.56066560745239
+Assembly fixtures,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,65600.44,0.9988402724266052,76.07863909482957
+"GAUGEPRESS;P/NJHF3238200,CON:BTM",S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,668.52,0.8876550197601318,75.10486618995667
+"SHIM SET;P/N:J77-0040-1,QTY:10",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,1679.1,0.955350399017334,74.9711450099945
+DT22HX1655 Drill Tubing,S:dunax,Mining Operating Materials > Picks and Sleeves > Picks and Sleeves,1,811.05,0.9093648791313171,73.50961478054523
+"ARM;STEERING LH FRONT,STL CAST",S:pelentengineering,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,6003.58,0.9879315495491028,72.45390775799751
+"SHIM STCK;BRNG,STL,98LL56S CN-501,07",S:pelentengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,339.02,0.7904337048530579,71.04716538071632
+"FILTER, FLUID;SPIN-ON,OIL,THD",S:blycrestfilters,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,181.55,0.610072135925293,70.79140372276306
+Overalls & coveralls,S:eldley,Underground Production Equipment > Shuttle Cars > Shuttle Cars,1,2525844.9,0.9999721050262451,70.4583771944046
+"KIT;M0TRREPAIR,MOTOR",S:halridgeelectricmotors,Underground Production Equipment > Continuous Miners > Continuous Miners,1,71628.84,0.999019980430603,70.19766493320465
+"SPRING TORSN;P/N:JAE600/S,OD:28MM",S:wextonengineering,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,5,1019.64,0.9313005805015564,70.04867609739304
+"COVER;P/N:10073710,PLT",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,3050.09,0.9776058197021484,68.30426538467408
+"GEAR, SET;WORM-HELICAL,M4-9733-015,0",S:ashax,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,2,1304243.1,0.9999477863311768,68.09931728839875
+"CHAIN PWR TRAN5;P/N:00005328-0112,SMPLX",S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,10990.97,0.9938310384750366,67.80287105202675
+"RETAINER;P/N:1012023,SNAP ON,STL",S:dunax,Underground Production Equipment > Continuous Miners > Continuous Miners,1,1169.28,0.942528247833252,67.20057037353516
+"COVER;P/N:100892406,ASSY",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,7310.1,0.9908893704414368,66.5996131360531
+POINTER;P/N:100804677,S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,40275.83,0.9983475208282471,66.5549702000618
+Adhesives & sealants,S:prahaven,Underground Production Equipment > Continuous Miners > Continuous Miners,1,138.57,0.5200979709625244,66.50002416372298
+NoObjcct,S:kelmont,Mining Operating Materials > Road Maintenance Material > Road Maintenance Material,1,5026.05,0.9871965646743774,64.35070611834526
+"PIN,SHEAR;P/N:30-8526W50_8_WY,BRS",S:eldley,Mining Support Equipment and Consumables > Feeder Breakers and Crushers > Feeder Breakers and Crushers,1,201831.3,0.9996856451034546,63.44665743112564
+REPR;TRANSMISSION;P/N:A2U900-331059,S:ivesmorepower,Flameproof Diesel Equipment > Flameproof Load Haul Dumper > Flameproof Load Haul Dumper,1,134257.83,0.9995311498641968,62.94680182814597
+"LEVER;P/N:100039524,STERG,STL",S:wextonengineering,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,1,9162.27,0.9932917356491089,61.462929214239125
+"CARRIER;P/N:01640294-0022,BRNG",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,4983.27,0.9877042770385742,61.27290736198426
+GENERAL MECHANICAL,S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,326067.3,0.9998152852058411,60.22945420145988
+BARRIER;P/N:100674631,S:prahaven,Underground Production Equipment > Shuttle Cars > SC Maintenance Spares,3,172728.58000000002,0.9997911055882772,59.11077847719192
+"PLUG,P1PE;P/N:JZ04-05-01005,PIPE SZ:3/4",S:wextonengineering,Underground Production Equipment > Continuous Miners > Continuous Miners,1,1291.36,0.954240083694458,59.0925255203247
+ELEMENT;/N:AJHF58011200,S:prahaven,Underground Production Equipment > Roof Bolters > Roof Bolters,1,13342.74,0.9955853223800659,58.903895666599276
+"SLEEVE;P/N:100768645,BIT",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,57984.2,0.9989940524101257,58.329066240787505
+"BUSH;P/N:01640410-0012,ID 35 X OD 254MM",S:prahaven,Underground Production Equipment > Continuous Miners > CM Maintenance Spares,1,486.35,0.8809629082679749,57.89368956387043
+supply and install 65ton Nexmore door,S:lanley,Mining Support Equipment and Consumables > Mining Ventilation and Hoists > Mining Ventilation and Hoists,1,66226.67,0.9991297125816345,57.63623766124248

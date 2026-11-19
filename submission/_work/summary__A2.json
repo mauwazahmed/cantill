@@ -1,0 +1,38 @@
+{
+  "company": "A",
+  "records": 21968,
+  "included": 14511,
+  "excluded_by_reason": {
+    "DUPLICATE": 7306,
+    "NOT_APPROVED": 90,
+    "CANCELLED": 61
+  },
+  "total_spend": 1008850498.02,
+  "reporting_currency": "ZAR",
+  "spend_by_source": {
+    "ERP": 880285481.45,
+    "TOOL": 128565016.57
+  },
+  "suppliers": 68,
+  "items": 3078,
+  "classification_mode": "semi-supervised",
+  "fx_flags": {},
+  "date_flags": {
+    "date_posting_flag": {
+      "MISSING": 8097
+    },
+    "date_invoice_flag": {
+      "MISSING": 6013
+    }
+  },
+  "timings_s": {
+    "ingest": 1.5,
+    "amounts+fx": 0.1,
+    "status/rules/dedup": 8.6,
+    "cross-source match": 0.9,
+    "labels": 0.3,
+    "supplier/item keys": 1.7,
+    "classification": 77.8,
+    "total": 91.2
+  }
+}

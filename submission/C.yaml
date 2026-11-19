@@ -1,0 +1,74 @@
+# Company C: US oil & gas producer (Bluestem entities), one AP invoice-line file, amounts already in USD (net).
+# Run: python run.py --config configs/C.yaml --data-dir <folder with invoice_lines.csv + category_tree_C.csv> --suffix C
+company: C
+reporting_currency: USD
+
+taxonomy:
+  file: "{data_dir}/category_tree_C.csv"
+  level_cols: [level_1, level_2, level_3, level_4]
+
+sources:
+  C:
+    file: "{data_dir}/invoice_lines.csv"
+    id_col: line_id
+    amount: {col: line_amount_usd, basis: net}       # lines sum to invoice_total_usd; rate_usd is a unit price
+    currency: {fixed: USD}
+    dates: {invoice: invoice_date, status: status_date}
+    date_formats: ["%m/%d/%Y", "%Y-%m-%d"]
+    date_window: ["2023-01-01", "2026-12-31"]
+    supplier: {name: supplier_name}                   # OCR/spelling variants ('Lrica Ltd' / 'Lorica Ltd') merged by fuzzy match
+    # product_service_code mixes real codes (FS-1910, CIW-10213) with generic ones ('PRODUCT', 'FREIGHT'); lines
+    # without a code are keyed by description within the supplier. Item pooling is off below because of the generic codes.
+    item: {code: product_service_code}
+    description: [line_description, product_service_description, invoice_description]
+    quantity: quantity
+    invoice_number: {col: invoice_number}
+    invoice_line: invoice_line
+    status: {col: status}                             # Approved -> spend, Cancelled -> CANCELLED (default rules)
+    features: [gl_account_description, buyer_entity, submission_type, uom]
+    reversals: cancel
+    dedup: {exact: true}                              # identical on every column except line_id
+
+# Not purchases from suppliers: taxes, royalties, revenue / receivable clearing (gathering fees netted from revenue),
+# financing costs, payroll deductions, director fees, donations, penalties, property recording fees.
+non_procurement_rules:
+  - name: taxes (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*accrued (ad valorem|severance) taxes|impact fee & other tax'
+  - name: tax line (description)
+    fields: [desc]
+    pattern: '^\W*ad valorem\W*(tax(es)?)?\W*$'
+  - name: royalties (GL)
+    fields: [gl_account_description]
+    pattern: 'royalty payable'
+  - name: revenue and receivable clearing (GL)
+    fields: [gl_account_description]
+    pattern: 'revenue|receivable|deposits clearing'
+  - name: financing cost (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*debt issuance cost'
+  - name: payroll deductions and director fees (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*(employee deductions payable|director fees)'
+  - name: donations and community giving (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*(donations|community giving)'
+  - name: penalties (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*penalty and fees'
+  - name: partner billings (JIB vouchers from other operators)
+    fields: [gl_account_description, desc]
+    pattern: '^\s*energy\s*$|\bJIB voucher\b'
+  - name: property acquisition recording fees (GL)
+    fields: [gl_account_description]
+    pattern: '^\s*o&g app properties'
+
+classification:
+  meta_features: [gl_account_description, buyer_entity, submission_type, uom]
+  zero_shot_extra_text: [gl_account_description]
+  item_pool_weight: 0
+  rules:                                            # GL accounts that the text alone maps to the wrong category
+    - {fields: [gl_account_description], pattern: 'compressor rental|^\s*coe - rental', category: 'Contract Compression Services'}
+    - {fields: [gl_account_description], pattern: '^\s*charter services', category: 'Air / Hotel / Car Rental'}
+    - {fields: [gl_account_description], pattern: '^\s*comp\b.*(overhaul|/oh)', category: 'Capital Projects & Construction > Compression > Overhaul > Overall current'}
+    - {fields: [gl_account_description], pattern: 'managed services - it', category: 'IT Outsourcing / Managed Services'}   # GL names are descriptive ('LOE - Water Hauling & Disposal')
